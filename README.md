@@ -30,7 +30,7 @@ My GovHack 2025 project focuses on "school accessibility" – a key daily activi
 
 ## 📊 Visualisations 
 All charts are combined into a single interactive report:  
-👉 [govhack2025_all_charts.html](./govhack2025_all_charts_1.html)
+👉 [govhack2025_all_charts](./govhack2025_all_charts_1.html)
 
 Included charts:
 1. Donut: % of trips ≤20 vs >20 minutes  
