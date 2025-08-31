@@ -1,6 +1,6 @@
 # GovHack 2025 – Delivering the 20-Minute Neighbourhood
 
-## 🚀 Project Overview
+<!-- ## 🚀 Project Overview
 The "20-Minute Neighbourhood" is a Victorian Government initiative that aims to ensure people can access most of their daily needs (schools, shops, parks, health services) within a 20-minute walk, cycle, or public transport trip from home.
 
 My GovHack 2025 project focuses on "school accessibility" – a key daily activity for Victorian households. Using real travel survey data and school locations, we explored:
@@ -26,10 +26,10 @@ My GovHack 2025 project focuses on "school accessibility" – a key daily activi
 
 ### 4. School locations across Victoria
 - Schools are broadly distributed across the state.
-- The interactive map shows **coverage by school type** (Primary, Secondary, Specialist, Combined).
+- The interactive map shows **coverage by school type** (Primary, Secondary, Specialist, Combined). -->
 
-## 📊 Visualisations (Interactive HTML)
-All charts are combined into a single interactive report:  
+## 📊 Visualisations 
+All charts are combined into a single interactive dashboard:  
 👉 [govhack2025_all_charts.html](./govhack2025_all_charts_1.html)
 
 Included charts:
@@ -38,7 +38,7 @@ Included charts:
 3. Bar: Average travel time by LGA  
 4. Map: School locations across Victoria by type  
 
-## 👥 Team
+<!-- ## 👥 Team
 Team Name: Possasive_Hacker
 Contributors: Solo participants[Myself only]
 
@@ -49,4 +49,4 @@ Contributors: Solo participants[Myself only]
 - "Plotly" – Interactive charts and maps 
 - "Jupyter Notebook in GitHub Codespaces" – Cloud-based development environment (no local install needed)
 - "GitHub" – Version control and project collaboration
-- "DataVic Open Datasets" – Primary data sources (VISTA, Schools, Vicmap LGA)
+- "DataVic Open Datasets" – Primary data sources (VISTA, Schools, Vicmap LGA) -->
