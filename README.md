@@ -1,4 +1,4 @@
-# GovHack 2025 – Delivering the 20-Minute Neighbourhood
+<!-- # GovHack 2025 – Delivering the 20-Minute Neighbourhood
 
 <!-- ## 🚀 Project Overview
 The "20-Minute Neighbourhood" is a Victorian Government initiative that aims to ensure people can access most of their daily needs (schools, shops, parks, health services) within a 20-minute walk, cycle, or public transport trip from home.
@@ -28,7 +28,7 @@ My GovHack 2025 project focuses on "school accessibility" – a key daily activi
 - Schools are broadly distributed across the state.
 - The interactive map shows **coverage by school type** (Primary, Secondary, Specialist, Combined). -->
 
-## 📊 Visualisations 
+<!-- ## 📊 Visualisations 
 All charts are combined into a single interactive report:  
 👉 [govhack2025_all_charts](./govhack2025_all_charts_1.html)
 
