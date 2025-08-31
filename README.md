@@ -29,7 +29,7 @@ My GovHack 2025 project focuses on "school accessibility" – a key daily activi
 - The interactive map shows **coverage by school type** (Primary, Secondary, Specialist, Combined). -->
 
 ## 📊 Visualisations 
-All charts are combined into a single interactive dashboard:  
+All charts are combined into a single interactive report:  
 👉 [govhack2025_all_charts.html](./govhack2025_all_charts_1.html)
 
 Included charts:
